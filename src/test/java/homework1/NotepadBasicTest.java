@@ -1,3 +1,5 @@
+package homework1;
+
 import com.sun.javafx.applet.ExperimentalExtensions;
 import org.junit.After;
 import org.junit.Assert;
